@@ -5,4 +5,5 @@
 3. Autogluon can be useful especially when it runs for a long time with GPU.
 4. Labels can be encoded and oof prodicted probabilities can be used for meta learner.
 5. Optuna LGBM integration makes the optimization procedure much more easier.
-6. Stick with Python or Scikit Learn API from the beginning. 
+6. Stick with Python or Scikit Learn API from the beginning.
+7. Consider the models having the best CV and ensemble the predictions. Usually this is the way to win the competition.  
