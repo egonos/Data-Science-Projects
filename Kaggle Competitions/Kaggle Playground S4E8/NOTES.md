@@ -10,7 +10,7 @@
 8. Use `tree_method = 'hist'` to fasten up XGBoost trees. It makes the XGB tree similart to LGB but still they are different from each other. The perfomrance could be lower, this could be solved by increasing `max_bin` parameter.
 
 
-## Things to Keep In Mind
+# Things to Keep In Mind
 
 **LGBM trees**
 
