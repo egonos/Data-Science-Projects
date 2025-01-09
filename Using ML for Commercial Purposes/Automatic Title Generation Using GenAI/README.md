@@ -1,6 +1,6 @@
 # Project Summary
 
-The purpose of this project is to leverage Generative AI to produce content that can be used in customer services. This can be extremely applicable if these models are fine tuned with the more spesific data.
+The purpose of this project is to leverage Generative AI to produce content that can be used in customer services. This is especially applicable if these models are fine tuned with the more spesific data.
 
 
 In this work, I tried to improve  title geneation capabilities of Gemini Flash 1.5 by training it with the titles that had been successful before. The success is dependent to the context so don't bother with how these titles were selected. In fact, to have a set of succesfull titles, I used another LLM (Microsoft Phi 3.5).
