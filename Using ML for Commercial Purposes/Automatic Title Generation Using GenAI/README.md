@@ -15,6 +15,6 @@ After fine tuning, I requested Gemini to generate titles about cars again. Lastl
 
 # Results
 
-Fine tuned Gemini produced more similar titles to the Microsoft Phi compared to the untrained Gemini model (0.76 vs 0.88). It used more emojis and columns (:) and created longer titles.
+Fine tuned Gemini produced more similar titles to the Microsoft Phi compared to the untrained Gemini model (0.76 vs 0.88). It used more emojis as well as columns (:) and created longer titles.
 
 
