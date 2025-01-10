@@ -1,3 +1,3 @@
-#Summary
+# Summary
 
 Recommendation algorithms are everywhere, and they have recently started to excite me after I read *Nexus* by Yuval Noah Harari. I decided to work on this subject. This folder contains related work. All of the recommendation algorithms were written using `tensorflow-recommenders`. The beginner projects are similar to the tutorials released on the TensorFlow website. The only difference is that the methods explained in these tutorials were applied to a different dataset. On the other hand, the intermediate projects are (mostly) unique experimental projects. Each project includes a markdown file explaining the algorithms and structures I used. This folder can serve as supplementary material for those who are also curious about the subject.
