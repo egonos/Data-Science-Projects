@@ -1,4 +1,6 @@
- This folder contains several projects that are related to advanced deep learning concepts.
+# Project Overview 
+
+This folder contains several projects that are related to advanced deep learning concepts.
 
  * `Siamese Networks`shows how to build a sample siamese network.
 
