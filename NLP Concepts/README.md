@@ -1,1 +1,5 @@
-Welcome to the NLP Concept Series. In this repo, I've tried the various kinds of NLP tasks as well as the theory behind them. I hope it will be useful for the reader.
+# Overview
+
+Welcome to NLP Concepts! This series aims to introduce the key tasks in Natural Language Processing (NLP). While creating these notebooks, I referred to [Speech and Language Proceesing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdfstart) by Jurafsky. You are encouraged to follow the notebooks alongside this excellent reference for a deeper understanding.
+
+I hope you find this series helpful and informative!
