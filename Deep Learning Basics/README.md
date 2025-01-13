@@ -1,6 +1,6 @@
 # Project Overview
 
-Deep learning algorithms are versatile—they can work with tabular data as well as sensory data like images, text, and time series. However, this flexibility also makes it challenging to build and manage effective models. This repository provides practical examples of key machine learning problems that deep learning can solve.
+Deep learning algorithms are versatile; they can work with tabular data as well as sensory data like images, text, and time series. However, this flexibility also makes it challenging to build and manage effective models. This repository provides practical examples of key machine learning problems that deep learning can solve.
 
 
 ## Contents
