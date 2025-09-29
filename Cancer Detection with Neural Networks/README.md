@@ -95,7 +95,7 @@ Some of the raw learning curves appeared noisy. To better visualize the training
 
 ![Model comparison 2](<Learning Curves and Performance Plots/model_comparison2.png>)
 
-From the figures above, it can be concluded that the ResNet model and Custom CNN model achieves the best overall performance (the F1-score are 0.744 and 0.747 respectiveliy). However, when considering parameter count and multiply-accumulate (MAC) operations, MobileNet stands out as the most efficient model.
+From the figures above, it can be concluded that the ResNet model and Custom CNN model achieve the best overall performance (the test set F1-scores are 0.744 and 0.747 respectively). However, when considering parameter count and multiply-accumulate (MAC) operations, MobileNet stands out as the most efficient model.
 
 ## Conclusion and Further Improvements
 
