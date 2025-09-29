@@ -89,13 +89,13 @@ Since the dataset is imbalanced, the accuracy score is not reliable. Instead, pr
 
 ## Results
 
-Some of the raw learning curves appeared noisy. To better visualize the training dynamics, exponential moving averages were applied for smoothing. With this adjustment, all models (except the CNN baseline) show steadily improving validation performance over time. The complete set of plots can be found in the `Learning Curves and Performance Plots` folder.
+Some of the raw learning curves appeared noisy. To better visualize the training dynamics, exponential moving averages were applied for smoothing. With this adjustment, all models show steadily improving validation performance over time. The complete set of plots can be found in the `Learning Curves and Performance Plots` folder.
 
 ![Model comparison 1](<Learning Curves and Performance Plots/model_comparison1.png>)
 
 ![Model comparison 2](<Learning Curves and Performance Plots/model_comparison2.png>)
 
-From the figures above, it can be concluded that the ResNet model achieves the best overall performance by a small margin (it also has the best test set F1-score at 0.744). However, when considering parameter count and multiply-accumulate (MAC) operations, MobileNet stands out as the most efficient model.
+From the figures above, it can be concluded that the ResNet model and Custom CNN model achieves the best overall performance (the F1-score are 0.744 and 0.747 respectiveliy). However, when considering parameter count and multiply-accumulate (MAC) operations, MobileNet stands out as the most efficient model.
 
 ## Conclusion and Further Improvements
 
